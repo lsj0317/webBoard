@@ -3,7 +3,7 @@ import './component/main.js';
 import './component/footer.js';
 // pages 폴더 안의 컴포넌트들을 import
 import './pages/auth.js'; 
-import './pages/board.js'; // 게시판 목록 컴포넌트가 있다고 가정
+import './pages/join.js'; // 게시판 목록 컴포넌트가 있다고 가정
 
 const routes = {
   '': 'app-content',      // 홈 (게시판 목록)
